@@ -25,3 +25,8 @@
 
 当該sbtプロジェクトの [src/main/scala/main.scala](https://github.com/chatwork/scala-event-challenge-2024/blob/main/implement-chat-uising-actor-model/src/main/scala/main.scala#L5) に上記にのルールに沿うロジックを記述してください。
 
+## 問い合わせ
+
+課題内容について質問があれば、以下のissueから起票をお願いします。ベストエフォートで回答します。
+
+https://github.com/chatwork/scala-event-challenge-2024/issues
