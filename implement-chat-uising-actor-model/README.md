@@ -4,8 +4,13 @@
 
 これはFizzBuzzを少し改変した課題です。課題の解答のSHA-256ハッシュ値をイベントの申し込みフォームにご入力ください。
 
-申し込みフォーム：https://forms.gle/c8oKxQSDwuKmqwce6
-イベント詳細：https://chatwork.connpass.com/event/320869/
+申し込みフォーム：
+
+https://forms.gle/c8oKxQSDwuKmqwce6
+
+イベント詳細：
+
+https://chatwork.connpass.com/event/320869/
 
 ## 課題の詳細
 
